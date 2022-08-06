@@ -1,9 +1,8 @@
-## Skills
+### My Technical Skills
 
-## Git
+These are my prominent technical skills
 
-## Docker
-
-## Linux
-
-## GCP
+- Configuration Management - Chef, Puppet, Ansible
+- Scripting Languages - bash, python, sed, awk
+- Cloud Platforms - AWS, GCP, Azure
+- Containers - Docker, Kubernetes
